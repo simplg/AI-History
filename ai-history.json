@@ -1,0 +1,60 @@
+{
+	"title": {
+		"media": {
+			"url": "//upload.wikimedia.org/wikipedia/commons/8/81/Artificial_Intelligence_%26_AI_%26_Machine_Learning_-_30212411048.jpg",
+			"caption": "A robot thinking in front of a blackboard with complex equations written on it.",
+			"credit": "flickr/<a href='https://www.flickr.com/photos/mikemacmarketing/'>Mike MacKenzie</a>"
+		},
+		"text": {
+			"headline": "AI History<br/> 1950 - 2021",
+			"text": "<p>AI is revolutionazing a lot of domains and is a popular subject discussed in news and other medias. However, a long journey was needed for developing Machine Learning algorithms to this extent. This is a brief timeline of AI hisotry.</p>"
+		}
+	},
+    "events": [
+        {
+			"media": {
+				"url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg",
+				"caption": "Alan Turing at the age of 16.",
+				"credit": "<a href='http://www.turingarchive.org/viewer/?id=521&title=4'>Unknown author (from Turing Archive)</a>"
+			},
+			"start_date": {
+				"month": "10",
+				"year": "1950"
+			},
+			"text": {
+				"headline": "Mind: Computing Machinery and Intelligence",
+				"text": "<p>A paper written by Alan Turing in the magazine Mind in which he addressed the problem of artificial intelligence, and proposed an experiment that became known as the Turing test, an attempt to define a standard for a machine to be called <i>intelligent</i></p>"
+			}
+		},
+        {
+			"media": {
+				"url": "https://media.ouest-france.fr/v1/pictures/MjAyMDA0YTQ2YjgzOThiZmZkZjk5ZDRhNDE3OTQ5NGU5ZTMzOGU",
+				"caption": "Marvin Minsky and Claude Shannon at the Dartmouth conference, United States",
+				"credit": "<a href='https://www.ouest-france.fr/high-tech/l-histoire-de-l-intelligence-artificielle-racontee-aux-enfants-6820792'>Margaret Minsky via Ouest-France</a>"
+			},
+			"start_date": {
+				"month": "07",
+				"year": "1956"
+			},
+			"text": {
+				"headline": "Mind: Computing Machinery and Intelligence",
+				"text": "<p>The Dartmouth Summer Research Project on artificial intelligence was a seminal event for artificial intelligence as a field, it is considered as the starting point of Artificial Intelligence as an autonomous research domain. John Mc Carthy presented his search algorithm Alpha-beta pruning, an evaluating algorithm having a primary purpose in artificial intelligence programming, specifically for the majority of chess programs</p>"
+			}
+		},
+        {
+			"media": {
+				"url": "https://media.ouest-france.fr/v1/pictures/MjAyMDA0YTQ2YjgzOThiZmZkZjk5ZDRhNDE3OTQ5NGU5ZTMzOGU",
+				"caption": "Marvin Minsky and Claude Shannon at the Dartmouth conference, United States",
+				"credit": "<a href='https://www.ouest-france.fr/high-tech/l-histoire-de-l-intelligence-artificielle-racontee-aux-enfants-6820792'>Margaret Minsky via Ouest-France</a>"
+			},
+			"start_date": {
+				"month": "07",
+				"year": "1956"
+			},
+			"text": {
+				"headline": "Mind: Computing Machinery and Intelligence",
+				"text": "<p>The Dartmouth Summer Research Project on artificial intelligence was a seminal event for artificial intelligence as a field, it is considered as the starting point of Artificial Intelligence as an autonomous research domain. John Mc Carthy presented his search algorithm Alpha-beta pruning, an evaluating algorithm having a primary purpose in artificial intelligence programming, specifically for the majority of chess programs</p>"
+			}
+		}
+    ]
+}
